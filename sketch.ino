@@ -8,7 +8,7 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
 const unsigned long channelID = 3550044;
-const char* writeAPIKey = "V72A2KWTHCHLUSNU";
+const char* writeAPIKey = "YOUR_WRITE_API_KEY";
 const char* universityID = "12323569";
 
 const int dhtPin = 15;
